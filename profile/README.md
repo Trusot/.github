@@ -1,4 +1,4 @@
-## Repositorios del departamento de TI
+## Software Development Team
 ![trusot - Editado](https://user-images.githubusercontent.com/41652908/205410329-83c9a860-5a62-42b7-88e4-6f3534f01d50.png)
 
 <!--
@@ -11,3 +11,24 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+
+## Team
+
+* **Rodrigo Ramos** - [role12](https://github.com/orgs/Trusot/people/role12)
+* **Juan Pablo Castro** - [jpcv222](https://github.com/orgs/Trusot/people/jpcv222)
+* **Andrés Serrato** - [andresow](https://github.com/orgs/Trusot/people/andresow)
+* **Kevin Dominguez** - [kevindm181998](https://github.com/orgs/Trusot/people/kevindm181998)
+
+## Stack
+
+* Odoo (https://odoo.com/)
+* Android (https://www.android.com/)
+* Java (https://www.java.com/es/) - Lenguaje de programación
+* Python (https://www.python.org/) - Lenguaje de programación
+* MySQL (https://www.mysql.com/) - Base de datos
+* Apache (https://httpd.apache.org/) - Servidor 
+* PHP (https://www.php.net/) - Lenguaje de programación
+* JavaScript (https://www.javascript.com/)
+* PostgresSQL (https://www.postgresql.org/) - Base de datos
+* HTML
+* CSS

@@ -30,5 +30,6 @@
 * PHP (https://www.php.net/) - Lenguaje de programación
 * JavaScript (https://www.javascript.com/)
 * PostgresSQL (https://www.postgresql.org/) - Base de datos
+* XML 
 * HTML
 * CSS

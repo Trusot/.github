@@ -16,7 +16,7 @@
 
 * **Rodrigo Ramos** - [role12](https://github.com/orgs/Trusot/people/role12)
 * **Juan Pablo Castro** - [jpcv222](https://github.com/orgs/Trusot/people/jpcv222)
-* **Andrés Serrato** - [andresow](https://github.com/orgs/Trusot/people/andresow)
+* **Andrés Felipe Serrato** - [andresow](https://github.com/orgs/Trusot/people/andresow)
 * **Kevin Dominguez** - [kevindm181998](https://github.com/orgs/Trusot/people/kevindm181998)
 
 ## Stack

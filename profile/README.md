@@ -14,10 +14,10 @@
 
 ## Team
 
-* **Rodrigo Ramos** - [role12](https://github.com/orgs/Trusot/people/role12)
-* **Juan Pablo Castro** - [jpcv222](https://github.com/orgs/Trusot/people/jpcv222)
-* **Andrés Felipe Serrato** - [andresow](https://github.com/orgs/Trusot/people/andresow)
-* **Kevin Dominguez** - [ke-dm](https://github.com/orgs/Trusot/people/ka-dm)
+* **Rodrigo Ramos** - [role12](https://github.com/role12)
+* **Juan Pablo Castro** - [jpcv222](https://github.com/jpcv222)
+* **Andrés Felipe Serrato** - [andresow](https://github.com/andresow)
+* **Kevin Dominguez** - [ke-dm](https://github.com/ka-dm)
 
 ## Stack
 
